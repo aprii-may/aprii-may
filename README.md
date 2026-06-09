@@ -1,6 +1,6 @@
 ![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false&hide=avatar,rank)
 
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false&hide=avatar,rank)
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&pixelate_avatar=false&hide=avatar,rank)
 
 Hi, I'm April!
 <!--
