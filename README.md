@@ -1,10 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&screen_effect=true&theme=blue_chill">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=summer">
-  
-  <img alt="aprii-may's GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=summer">
-</picture>
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false)
 
 
 <!--
