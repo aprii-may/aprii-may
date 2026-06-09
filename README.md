@@ -1,3 +1,5 @@
+![My Pixel Stats](https://raw.githubusercontent.com/aprii-may/aprii-may/output/github-stats)
+
 ## Hi I'm April!
 
 <!--
