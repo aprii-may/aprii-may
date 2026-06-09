@@ -1,5 +1,9 @@
 ![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false&hide=avatar,rank)
 
+<picture>
+  <img alt="aprii-may's Custom Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&background=url('https://images.unsplash.com/photo-1506744038136-46273834b3fb')&color=%23ffffff&hide=avatar&hide_rank=true" width="100%">
+</picture>
+
 Hi, I'm April!
 <!--
 **aprii-may/aprii-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
