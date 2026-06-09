@@ -2,8 +2,8 @@ name: generate-and-upload-card
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Runs every 24 hours
-  workflow_dispatch: # Allows manual triggers
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -21,9 +21,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=<aprii-may>&background=url('https://i.imgur.com/8QZ7X2B.png')&color=white&dithering=true&hide=avatar
-          crt_outputs: |
-            dist/github-stats-crt?username=<aprii-may>&include_all_commits=true
+            dist/github-stats?username=${{ github.repository_owner }}&theme=fuji&screen_effect=false&dithering=true&hide=avatar
             
       - name: push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
