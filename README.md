@@ -6,7 +6,6 @@
   <img alt="aprii-may's GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=summer">
 </picture>
 
-## Hi I'm April!
 
 <!--
 **aprii-may/aprii-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
