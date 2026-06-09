@@ -4,6 +4,7 @@
 I'm an undergraduate student at UCLA studying Mathematics and Computer Science.
 
 My main technical stack is: Python
+
 My favorite tools are: VSCode, Notion, Git
 
 I'm currently learning: Data structures
