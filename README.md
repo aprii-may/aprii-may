@@ -1,4 +1,4 @@
-![My Pixel Stats](https://raw.githubusercontent.com/aprii-may/aprii-may/output/github-stats)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=<aprii-may>&theme=crt)
 
 ## Hi I'm April!
 
