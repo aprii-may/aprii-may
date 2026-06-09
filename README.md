@@ -1,6 +1,8 @@
 ![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false&hide=avatar,rank)
 
 Hi, I'm April!
+
+Technical Stack
 <!--
 **aprii-may/aprii-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
