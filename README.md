@@ -1,10 +1,9 @@
 ![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false&hide=avatar,rank)
 
-Hey there!
-
-I'm April, a undergraduate at UCLA, studying mathematics and computer science
+# Hi, I'm April! 
+I'm an undergraduate student at UCLA studying Mathematics and Computer Science.
 
 My main technical stack is: Python
 My favorite tools are: VSCode, Notion, Git
 
-What I'm currently learning: Data structures
+I'm currently learning: Data structures
