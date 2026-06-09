@@ -1,6 +1,6 @@
 ![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=aprii-may&theme=journey&pixelate_avatar=false)
 
-
+Hi, I'm April!
 <!--
 **aprii-may/aprii-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
