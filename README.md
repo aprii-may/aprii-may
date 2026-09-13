@@ -2,8 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/aprii-may?style=social) 
 ![GitHub User's Stars](https://img.shields.io/github/stars/aprii-may?style=social)
-![GitHub Profile Views](https://img.shields.io/github/watchers/aprii-may/aprii-may?style=social)
-
 
 ### About Me
 - I'm an undergraduate student at UCLA studying Mathematics and Computer Science
