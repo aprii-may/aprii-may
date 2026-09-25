@@ -2,5 +2,5 @@
 
 ### About Me 🌿
 - I'm an undergraduate student at UCLA studying mathematics and computer science!
-- Currently, I'm learning HTML, CSS and Javascript to make web applications, as well as Python and SQL for data engineering 
+- Currently, I'm learning HTML, CSS and Javascript to make web applications, as well as Python and SQL for data management
 - Outside of studying, I like running, dancing, playing video games (Roblox horror games + Resident Evil), watching stuff (Ghibli Studio Movies + funny rabbit compilation reels) and eating good food :D
